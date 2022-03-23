@@ -1,4 +1,5 @@
-Hi There I'm Mert, Citizen Of The World With Has Passion About Create Something Useful 👋
+<h2>Hi There I'm Mert, <br>
+ Citizen Of The World With Has Passion About Create Something Useful 👋</h2>
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="500" height="320" />
 
