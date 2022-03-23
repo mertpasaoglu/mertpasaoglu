@@ -1,5 +1,7 @@
-<h2>Hi There I'm Mert, <br>
+<h2>Hi There I'm Mert, <br><br>
  Citizen Of The World With Has Passion About Create Something Useful 👋</h2>
+ 
+ <br>
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="500" height="320" />
 
@@ -7,6 +9,8 @@
 - 🌱 I’m currently learning React.JS 
 - 📫 How to reach me: mertpasaoglu@hotmail.com
 - ⚡ Fun fact: Developing myself first then I'll develop some useful products
+
+<br>
 
 📩 Connect with me:
 
@@ -24,6 +28,9 @@
 [medium]: https://medium.com/@mertpasaoglu
 [outlook]: mailto:mertpasaoglu@hotmail.com
 <br />
+
+
+<br>
 
 🔧 Languages and Tools:
 
