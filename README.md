@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="500" height="320" />
 
-- 🔭 I’m currently working on Uretken Akademi & APY Ventures React.JS Bootcamp
+
 - 🌱 I’m currently learning React.JS 
 - 📫 How to reach me: mertpasaoglu@hotmail.com
 - ⚡ Fun fact: Developing myself first then I'll develop some useful products
