@@ -53,8 +53,6 @@
 [Vue]: https://vuejs.org/
 [react]: https://reactjs.org/
 [vsCode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/IbrahimTalha0
 
 
 <br />
