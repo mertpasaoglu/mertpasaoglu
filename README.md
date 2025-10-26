@@ -15,7 +15,7 @@
 
 | Platform | Icon | Link |
 | :---: | :---: | :--- |
-| **LinkedIn** | <img height="24" width="24" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> | [Mert Paşaoğlu](https://www.linkedin.com/in/mert-pasaoglu/) |
+| **LinkedIn** | <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" /> | [Mert Paşaoğlu](https://www.linkedin.com/in/mert-pasaoglu/) |
 | **Instagram** | <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" /> | [pasaoglumert](https://www.instagram.com/pasaoglumert/) |
 | **Email (Outlook)** | <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" /> | [mertpasaoglu@hotmail.com](mailto:mertpasaoglu@hotmail.com) |
 | **Medium** | <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" /> | [mertpasaoglu](https://medium.com/@mertpasaoglu) |
